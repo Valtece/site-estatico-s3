@@ -14,7 +14,8 @@ Aprender a configurar e hospedar sites estáticos (HTML, CSS e JavaScript) em bu
 
 ## Etapas realizadas:
 
-- 1️. Criação do Bucket: ![Print Bucket](./images/bucket.png)
+- 1️. Criação do Bucket: 
+- ![Print Bucket](./images/bucket.png)
 - 2️⃣. Fazer Uploads dos arquivos: ![Print Upload](./images/arquivos.png)
 - 3️⃣. Habilitar hospedagem estática ![Print Habilitar Hospedagem](./images/hospedagem.jpeg)
 - 4️⃣. Tentar acessar o site ![Print Erro 403](./images/erro.403.png)
